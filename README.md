@@ -1,2 +1,5 @@
 # JavaScript_Document
-Learning JavaScript 
+
+## Thien.nhat
+
+Learning JavaScript
