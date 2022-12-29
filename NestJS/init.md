@@ -17,3 +17,11 @@
 ```s
   $ nest generate controller /destination/path/name
 ```
+
+## Validation
+
+### INSTALL
+
+```s
+    $ npm i class-validator
+```
