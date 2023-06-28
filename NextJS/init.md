@@ -18,4 +18,4 @@ withCredential: true;
 
 - HTTP protocol cannot get data in cookies of the response
 
-![https cookie](Assets/set-cookies.png)
+![https cookie](/Assets/set-cookies.PNG)
